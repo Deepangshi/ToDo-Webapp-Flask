@@ -1,5 +1,5 @@
 ## ToDo-Webapp-Flask
-ToDo Webapp with Flask is a web appliaction where we can add our daily information to do, and make it todo list with create, read, update and delete form.
+ToDo Webapp with Flask is a web application where we can add our daily information to do, and make it todo list with create, read, update and delete form.
 
 ## Requirements
 
